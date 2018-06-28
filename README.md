@@ -1,2 +1,2 @@
 # Marketing
-<h1>Let's get creative.</h1>
+<h2>Let's get creative.</h2>
